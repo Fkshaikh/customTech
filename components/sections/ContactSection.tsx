@@ -152,12 +152,12 @@ export default function ContactSection() {
               </div>
 
               <Button type="submit" className="w-full" disabled={isSubmitting}>
-                {isSubmitting ? 'Sending...' : 'Send Message'}
+                {isSubmitting ? "Sending..." : "Send Message"}
               </Button>
 
               {isSuccess && (
                 <div className="bg-green-50 border border-green-200 text-green-700 px-4 py-3 rounded-md">
-                  Thank you for your message! We'll be in touch soon.
+                  Thank you for your message! We&apos;ll be in touch soon.
                 </div>
               )}
             </form>

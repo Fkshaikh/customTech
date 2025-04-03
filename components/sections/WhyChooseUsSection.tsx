@@ -174,7 +174,7 @@ export default function WhyChooseUsSection() {
             </svg>
           </div>
           <p className="text-lg text-gray-700 mb-4">
-            "CustomTech's integration of our Suprema biometric devices with our enterprise software has revolutionized our security protocols. Their expertise in both hardware and software is unparalleled."
+            &ldquo;CustomTech&apos;s integration of our Suprema biometric devices with our enterprise software has revolutionized our security protocols. Their expertise in both hardware and software is unparalleled.&rdquo;
           </p>
           <div className="font-semibold text-gray-900">Sarah Johnson</div>
           <div className="text-gray-500">CTO, Enterprise Security Solutions</div>
